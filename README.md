@@ -20,4 +20,4 @@ Most of the utilities and data here based on the R [soilspec](https://github.com
 
 ### Reference
 
-[Oral abstract] Stenborg, T 2023, "[Soil spectral inference with Julia](https://conference.soilscienceaustralia.org.au/wp-content/uploads/2023/06/2023-SSA-Oral-Abstract-Book.pdf)", in 2023 Soil Science Australia Conference – Oral Abstracts, Soil Science Australia, viewed 04 October 2025.
+[Oral abstract] Stenborg, T 2023, "[Soil spectral inference with Julia](https://conference.soilscienceaustralia.org.au/2023/wp-content/uploads/2023/06/2023-SSA-Oral-Abstract-Book.pdf)", in 2023 Soil Science Australia Conference – Oral Abstracts, Soil Science Australia, viewed 04 October 2025.
