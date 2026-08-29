@@ -26,7 +26,7 @@
 #                the probability densities (see density function of the package
 #                stats).
 #   ...          Arguments to be passed to the calibration sampling algorithms,
-#                i.e. additional aruments to be used for the clhs, kenStone or
+#                i.e. additional arguments to be used for the clhs, kenStone or
 #                naes functions which run inside this function.
 #
 # Info:        A function for assessing the adequate calibration set size for
