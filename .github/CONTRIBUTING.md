@@ -1,6 +1,6 @@
 # Contributing
 
-The repository holds digital assets associated with a static article.
+The repository holds digital resources associated with a static article.
 Contributions enhancing repository quality are welcome. Software feature
 changes, however, are inappropriate.
 
